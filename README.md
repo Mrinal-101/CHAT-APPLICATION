@@ -1,4 +1,4 @@
-# API INTEGRATION
+# CHAT-APPLICATION
 
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -55,3 +55,11 @@ server/ - Express backend code (handles Cloudinary uploads)
 .env - Environment variables for server and client
 ```
 
+## SCREENSHOTS
+
+<img width="1919" height="846" alt="Image" src="https://github.com/user-attachments/assets/302114ee-d445-4b56-9977-cdbcda6f7366" />
+<img width="1919" height="849" alt="Image" src="https://github.com/user-attachments/assets/051876eb-35ce-4555-adae-4b94f8e0a825" />
+<img width="1919" height="852" alt="Image" src="https://github.com/user-attachments/assets/35c6ec19-f7a1-4014-baab-29fedbea7ca4" />
+<img width="1919" height="850" alt="Image" src="https://github.com/user-attachments/assets/00f761f6-c309-40b7-b85f-a666adbe3caa" />
+<img width="1919" height="840" alt="Image" src="https://github.com/user-attachments/assets/5e73b04f-2b28-471d-9f90-5c41c6fd3a76" />
+<img width="1919" height="860" alt="Image" src="https://github.com/user-attachments/assets/583d78f1-c962-486b-ade8-4d54082b9f8c" />
